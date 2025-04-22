@@ -1,9 +1,9 @@
 {
   "python.analysis.autoImportCompletions": false,
   "github.copilot.enable": {
-    "*": true,
+    "*": false,
     "plaintext": false,
-    "markdown": true,
+    "markdown": false,
     "scminput": false
   }
 }
